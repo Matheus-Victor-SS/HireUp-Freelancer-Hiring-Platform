@@ -1,3 +1,6 @@
+<img src="logoHireUp.png" width="200">
+
+
 # 🚀 HireUp – Plataforma Digital para Contratação de Freelancers
 
 O **HireUp** é uma **plataforma digital completa** desenvolvida para facilitar e otimizar a relação entre **freelancers e contratantes**, oferecendo uma experiência mais **segura, eficiente e transparente** para ambos os lados.  
