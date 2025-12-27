@@ -166,6 +166,19 @@ Estruturação de banco de dados
 Planejamento e execução de projeto real
 Documentação técnica e acadêmica
 
+## 🔒 Licença
+
+Este projeto **não possui licença pública**.
+
+O código-fonte, layout, funcionalidades e materiais associados (incluindo documentos, imagens e banco de dados) são de **uso restrito**, destinados exclusivamente para **fins educacionais, acadêmicos e de portfólio**.
+
+❌ **Não é permitida** a cópia, redistribuição, modificação ou uso comercial sem autorização prévia do autor.
+
+Para mais informações ou solicitações de uso, entre em contato com o responsável pelo projeto.
+
+
+Desenvolvido por Matheus Victor da Silva Santos
+
 
 ARQUIVOS PESADOS ESTÃO EM :(https://drive.google.com/drive/folders/14QcHAVTU4XH1RQ_oUySTmBEHHiMotbzY?usp=drive_link)
 
