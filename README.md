@@ -1,4 +1,7 @@
-<img src="image/logoHireUp.png" width="200">
+<p align="center">
+  <img src="images/logoHireUp.jpeg" alt="HireUp Logo" width="200">
+</p>
+
 
 
 # 🚀 HireUp – Plataforma Digital para Contratação de Freelancers
