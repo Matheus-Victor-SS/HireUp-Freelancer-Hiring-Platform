@@ -68,9 +68,9 @@ O objetivo deste estudo e desenvolvimento foi:
 
 ---
 
-## 📂 Estrutura Disponível no Repositório
+## 📂 Estrutura Disponível
 
-O repositório contém:
+No seguinte link (https://drive.google.com/drive/folders/14QcHAVTU4XH1RQ_oUySTmBEHHiMotbzY?usp=drive_link) contém:
 
 - 📁 Pasta `wordpress`  
   → Diretório completo do WordPress (localizado em `htdocs`)
@@ -122,11 +122,7 @@ Ou utilize a opção Code > Download ZIP no GitHub.
 
 3️⃣ Configurar o WordPress
 Copie a pasta wordpress para:
-
-Copiar código
-
 htdocs/
-Renomeie a pasta, se desejar (ex: hireup)
 
 4️⃣ Importar o Banco de Dados
 Abra o phpMyAdmin
@@ -157,7 +153,9 @@ Acesse no navegador:
 
 arduino
 Copiar código
-http://localhost/nome-da-pasta
+
+http://localhost/wordpress
+
 O site HireUp será carregado
 
 🧠 Aprendizados
@@ -169,7 +167,6 @@ Planejamento e execução de projeto real
 Documentação técnica e acadêmica
 
 
-📄 Licença
-Projeto de uso livre para fins educacionais.
+ARQUIVOS PESADOS ESTÃO EM :(https://drive.google.com/drive/folders/14QcHAVTU4XH1RQ_oUySTmBEHHiMotbzY?usp=drive_link)
 
 👨‍💻 Desenvolvido por Matheus Victor
