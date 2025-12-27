@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo2.jpeg" alt="HireUp Logo" width="200">
+  <img src="images/logo2.jpeg" alt="HireUp Logo" width="100%">
 </p>
 
 
